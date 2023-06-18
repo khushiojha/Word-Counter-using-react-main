@@ -11,7 +11,7 @@ function App() {
 
   return (
     <div >
-      <h1>Live Word Count</h1>
+      <h1>Live Word Count by Khushi</h1>
       <textarea
         rows="5"
         cols="50"
